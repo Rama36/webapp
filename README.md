@@ -13,4 +13,4 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 Adding Rama comment 1
 Adding Rama comment 2
 Adding Rama comment 3
-curl -H "Content-Type: application/json" --data '{"build": true}' -X POST https://registry.hub.docker.com/u/rama36/webapp/trigger/e5a30a9a-1058-48ea-b8c6-0da04a479156/
+Adding Rama comment 4
